@@ -1,1 +1,1 @@
-# solana-pay-tutorial
+# Take payments IRL with Solana Pay
